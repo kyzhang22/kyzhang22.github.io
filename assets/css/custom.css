@@ -1,0 +1,9 @@
+/* Increase content width for publication pages */
+article main {
+  max-width: 900px !important;
+}
+
+/* Wider abstract text */
+article main > div {
+  max-width: 100% !important;
+}

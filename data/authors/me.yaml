@@ -1,0 +1,69 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Kaiyuan Zhang
+  given: Kaiyuan
+  family: Zhang
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: ""
+role: PhD Student
+bio: |
+  Kaiyuan Zhang is a PhD student at Harbin Institute of Technology, School of Computing.
+  His research focuses on AI for Life Sciences, Medical AI, Multi-Agent Systems, and Reinforcement Learning.
+
+affiliations:
+  - name: Harbin Institute of Technology
+    url: https://www.hit.edu.cn/
+
+links:
+  - icon: at-symbol
+    url: mailto:kyzhang1038@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/kyzhang22
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0006-7866-6920
+
+interests:
+  - AI for Life Sciences
+  - Medical AI (WITMED)
+  - Multi-Agent Systems
+  - Reinforcement Learning
+
+education:
+  - degree: PhD in Computer Science
+    institution: Harbin Institute of Technology
+    start: 2021-09-01
+    summary: |
+      Research focus on AI for Life Sciences and Multi-Agent Systems.
+  - degree: MS in Computer Science
+    institution: Sogang University, South Korea
+    start: 2017-09-01
+    end: 2019-08-31
+  - degree: BS in Computer Science
+    institution: Harbin Institute of Technology (Weihai)
+    start: 2012-09-01
+    end: 2016-06-30
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 5
+      - label: Machine Learning
+        level: 5
+      - label: Reinforcement Learning
+        level: 4
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
